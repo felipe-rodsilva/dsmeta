@@ -8,7 +8,7 @@ O <strong>DSMeta</strong> é uma aplicação que possui um layout estático inte
 
 Criação e versionamento do projeto com Git e Github, Layout Estático estruturado em Componentes React, React Hook useState, React Hook UseEffect, Entidades, Banco de dados (mapeamento objeto-relacional (JPA)), Database Seed, API REST (repository, service, controller), Integração com SMS, Integração Front end e Back end, Requisições com Axios, Annotations Spring, Parâmetros de consulta, Implantação na nuvem com CI/CD, React-Tostify.
 
-## Overview da Aplicação
+## Overview da Aplicação (Tecnologias Utilizadas)
 
 ![overview-dsmeta](https://user-images.githubusercontent.com/105990622/179566138-a4625c2b-d69b-4572-9005-4d8a0e3d844b.png)
 
