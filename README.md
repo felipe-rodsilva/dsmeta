@@ -38,4 +38,5 @@ Criação e versionamento do projeto com Git e Github, Layout Estático estrutur
 <img src = "https://img.shields.io/github/license/felipe-rodsilva/dsmeta" />
 </a>
 
+<p>This project is for study purposes, so all kinds of contributions are very welcome and appreciated!🤝</p>
 
