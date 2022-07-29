@@ -40,9 +40,3 @@ Criação e versionamento do projeto com Git e Github, Layout Estático estrutur
 <a href = "https://github.com/felipe-rodsilva/dsmeta/blob/main/License.md">
 <img src = "https://img.shields.io/github/license/felipe-rodsilva/dsmeta" />
 </a>
-
-
-## Make your contribution
-
-<p>This project is for study purposes, so all kinds of contributions are very welcome and appreciated!🤝</p>
-
