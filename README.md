@@ -1,8 +1,11 @@
-<h1 align="center"> DSMeta </h1>
+<h1 align="center"> DSMeta 📊 </h1>
 
 ## Descrição do Projeto
 
-O <strong>DSMeta</strong> é uma aplicação que possui um layout estático integrado a um banco de dados que exibe uma listagem com dados de vendedores de uma empresa, e mostra de forma decrescente os vendedores destaque dentro de um período filtrado por datas. Ao clicar no botão, é enviado um SMS ao vendedor notificando que ele foi o destaque dentro daquele período.
+O <strong>DSMeta</strong> é uma aplicação que possui um layout estático integrado a um banco de dados que exibe uma listagem com dados de vendedores, e mostra de forma decrescente os vendedores destaque dentro de um período filtrado por datas. Ao clicar no botão, é enviado um SMS notificando que o vendedor foi o destaque dentro daquele período.
+
+![screencapture-dsmeta-feliperod-netlify-app-2022-07-29-02_54_49](https://user-images.githubusercontent.com/105990622/181692511-ac8b5877-06cb-4ba3-b5e4-db948d257e0c.png)
+
 
 ## Tópicos Trabalhados
 
